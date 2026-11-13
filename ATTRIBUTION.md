@@ -861,6 +861,7 @@ Original SolidCraft drawings, Open for owner review; no runtime assignments.
 | assets/fonts/craft-ui-kr/OFL.txt | Adobe / Google Inc. (Noto CJK); SolidCraft header | Accompanying OFL for CraftUI-KR.otf | SIL OFL 1.1 |
 | `assets/locales/pending/names-from-file.json` | SolidCraft contributors | Original label for the names-from-file preference | MIT OR Apache-2.0 |
 | `assets/locales/pending/snap-points.json` | SolidCraft contributors | Original snap point labels and messages | MIT OR Apache-2.0 |
+| tests/step-regressions/tiny_rounds_coarse_tolerance.step | SolidCraft contributors | written entity by entity from formulas (a 0.05 mm quarter round, corner ball and quarter torus in a file of 0.1 mm uncertainty); import regression fixture | MIT OR Apache-2.0 |
 
 ## Code adapted from sibling projects
 
